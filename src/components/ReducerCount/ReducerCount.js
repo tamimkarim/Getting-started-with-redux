@@ -1,9 +1,11 @@
 import React from 'react';
+import { useReducer } from 'react';
 
 const ReducerCount = () => {
+
     return (
         <div>
-            <h2>This is Reducer Count</h2>
+            
         </div>
     );
 };
